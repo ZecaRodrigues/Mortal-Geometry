@@ -51,10 +51,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CastleLookAt.cs" />
      <Compile Include="Assets\Scripts\DemageForce.cs" />
+     <Compile Include="Assets\Scripts\DropCube.cs" />
+     <Compile Include="Assets\Scripts\EndZoneTrigger.cs" />
      <Compile Include="Assets\Scripts\FollowerPlayer.cs" />
+     <Compile Include="Assets\Scripts\GameAdmin.cs" />
+     <Compile Include="Assets\Scripts\MovingTongue.cs" />
+     <Compile Include="Assets\Scripts\PlaneTrigger.cs" />
      <Compile Include="Assets\Scripts\PlayerEnergyController.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\RainTrigger.cs" />
+     <Compile Include="Assets\Scripts\ScoreDistance.cs" />
+     <Compile Include="Assets\Scripts\SpinLight.cs" />
+     <Compile Include="Assets\Scripts\SpinWheelRotation1.cs" />
+     <Compile Include="Assets\Scripts\TargetMoveTrapezoide.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

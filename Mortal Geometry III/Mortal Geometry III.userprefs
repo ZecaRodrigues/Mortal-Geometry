@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FollowerPlayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RainTrigger.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\DemageForce.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FollowerPlayer.cs" Line="12" Column="53" />
+      <File FileName="Assets\Scripts\RainTrigger.cs" Line="74" Column="15" />
+      <File FileName="Assets\Scripts\PlaneTrigger.cs" Line="38" Column="33" />
+      <File FileName="Assets\Scripts\DropCube.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
